@@ -1,0 +1,29 @@
+# Capacitor / Android
+/android/
+/out/
+*.keystore
+key.properties
+
+# Dependencies
+/node_modules
+
+# Next.js
+/.next/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+dev.log
+server.log
